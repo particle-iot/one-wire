@@ -1,1 +1,5 @@
-{"name":"one-wire-ds18b20"}
+{
+  "name":"one-wire-ds18b20",
+  "version":"0.0.1",
+  "author":"Someone <email@somesite.com>"
+}
